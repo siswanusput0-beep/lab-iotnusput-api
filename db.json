@@ -1,0 +1,15 @@
+{
+  "users": [
+    { "id": 1, "username": "admin", "password": "1234", "role": "admin", "name": "Administrator" },
+    { "id": 2, "username": "budi", "password": "1234", "role": "pic", "name": "Pak Budi", "labId": "lab-1" }
+  ],
+  "labs": [
+    { "id": "lab-1", "name": "Lab IoT 1", "location": "Gedung A – Lantai 2", "pic": "Pak Budi", "pic_email": "budi@nusaputera.sch.id" }
+  ],
+  "items": [
+    { "id": "item-1", "name": "Oculus", "stock": 3 },
+    { "id": "item-2", "name": "mBot", "stock": 4 },
+    { "id": "item-3", "name": "Smart Projector", "stock": 1 }
+  ],
+  "bookings": []
+}
