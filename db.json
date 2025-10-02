@@ -1,15 +1,39 @@
-{
-  "users": [
-    { "id": 1, "username": "admin", "password": "1234", "role": "admin", "name": "Administrator" },
-    { "id": 2, "username": "budi", "password": "1234", "role": "pic", "name": "Pak Budi", "labId": "lab-1" }
-  ],
-  "labs": [
-    { "id": "lab-1", "name": "Lab IoT 1", "location": "Gedung A – Lantai 2", "pic": "Pak Budi", "pic_email": "budi@nusaputera.sch.id" }
-  ],
-  "items": [
-    { "id": "item-1", "name": "Oculus", "stock": 3 },
-    { "id": "item-2", "name": "mBot", "stock": 4 },
-    { "id": "item-3", "name": "Smart Projector", "stock": 1 }
-  ],
-  "bookings": []
-}
+[
+  {
+    "id": "8ed4",
+    "requester": "fer",
+    "email": "dsfsd",
+    "labId": "lab-1",
+    "startISO": "2025-10-13T08:42",
+    "duration": 2,
+    "purpose": "dfs",
+    "selectedItems": [
+      {
+        "itemId": "item-1",
+        "qty": 1
+      }
+    ],
+    "status": "returned",
+    "returnedAt": "2025-10-02T07:38:59.033Z"
+  },
+  {
+    "id": "5b4d",
+    "requester": "",
+    "email": "",
+    "labId": "lab-1",
+    "startISO": "",
+    "duration": 2,
+    "purpose": "",
+    "selectedItems": [
+      {
+        "itemId": "item-1",
+        "qty": 1
+      },
+      {
+        "itemId": "item-2",
+        "qty": 1
+      }
+    ],
+    "status": "declined"
+  }
+]
