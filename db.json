@@ -4,19 +4,19 @@
       "id": 1,
       "username": "admin",
       "password": "admin123",
-      "role": "Admin"
+      "role": "admin"
     },
     {
       "id": 2,
       "username": "sari",
       "password": "1234",
-      "role": "PIC"
+      "role": "pic"
     },
     {
       "id": 3,
       "username": "budi",
       "password": "1234",
-      "role": "User"
+      "role": "user"
     }
   ],
   "labs": [
